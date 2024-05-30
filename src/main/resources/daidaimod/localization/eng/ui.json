@@ -1,0 +1,12 @@
+{
+    "daidaimod:Config": {
+        "TEXT": [
+            "Force [Blessing of Dai] to Spawn",
+            "#g[Blessing #gof #gDai] #gwill #gtake #gprecedence #gto #gspawn #gin #gBoss #gchests, #gand #galso #gacquirable #gthrough #gNeow's #gReplace #gStarting #gRelic #goption.",
+            "Force Replace the [Falling] Event",
+            "#rThe #r[Falling #rDai] #revent #rwill #rreplace #rthe #roriginal #r[Falling] #revent #runconditionally.",
+            "Challenge [Heart of Dai]",
+            "#g[Corrupt #gHeart] #gwill #gbe #greplaced #gby #g[Heart #gof #gDai]."
+        ]
+    }
+}

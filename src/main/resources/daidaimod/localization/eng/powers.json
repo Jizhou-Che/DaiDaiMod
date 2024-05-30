@@ -1,0 +1,26 @@
+{
+    "daidaimod:CaptainRewards": {
+        "NAME": "Captain Rewards",
+        "DESCRIPTIONS": [
+            "Take your gold at the start of its turn. For every 138 gold taken, add a #yGift #yof #yDai to your hand."
+        ]
+    },
+    "daidaimod:DizzyingPunches": {
+        "NAME": "Dizzying Punches",
+        "DESCRIPTIONS": [
+            "Whenever you receive attack damage from Heart of Dai, add #yDazed into your draw pile (3 if heavy punch, 1 if consecutive punch)."
+        ]
+    },
+    "daidaimod:FallingMaster": {
+        "NAME": "Falling Master",
+        "DESCRIPTIONS": [
+            "After your draw phase at the start of your turn, simulate a #yFalling event to your hand."
+        ]
+    },
+    "daidaimod:RushdownEnthusiast": {
+        "NAME": "Rushdown Enthusiast",
+        "DESCRIPTIONS": [
+            "Whenever you play the card #yRushdown, negate it and give you a random powerful buff."
+        ]
+    }
+}

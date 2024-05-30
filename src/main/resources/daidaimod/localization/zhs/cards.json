@@ -1,0 +1,22 @@
+{
+    "daidaimod:FakeFall": {
+        "NAME": "假摔",
+        "DESCRIPTION": "选择 1 张手牌 消耗 ，将 2 张垃圾卡牌加入手牌。"
+    },
+    "daidaimod:GenuineFall": {
+        "NAME": "真摔",
+        "DESCRIPTION": " 消耗 (?)，从 5 张强力卡牌中选择 1 张加入手牌。",
+        "UPGRADE_DESCRIPTION": " 消耗 (?)，从 5 张强力卡牌中选择 1 张 升级 并加入手牌。",
+        "EXTENDED_DESCRIPTION": [
+            "你的手牌中没有可以阻止一次真摔的卡牌！受到 5 点伤害。"
+        ]
+    },
+    "daidaimod:GiftOfDai": {
+        "NAME": "呆呆的赠礼",
+        "DESCRIPTION": " 保留 。 NL 获得随机 [E] ，抽随机张牌，获得随机格挡，回复随机生命。 NL 消耗 。"
+    },
+    "daidaimod:PunchDai": {
+        "NAME": "给呆一拳",
+        "DESCRIPTION": " 击晕 呆呆之心。 NL 消耗 。"
+    }
+}

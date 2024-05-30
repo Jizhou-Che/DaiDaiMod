@@ -1,0 +1,26 @@
+{
+    "daidaimod:CaptainRewards": {
+        "NAME": "舰长回馈",
+        "DESCRIPTIONS": [
+            "回合开始时夺取你的金币。每夺走138金币，在你手牌中加入一张 #y呆呆的赠礼 。"
+        ]
+    },
+    "daidaimod:DizzyingPunches": {
+        "NAME": "晕眩之拳",
+        "DESCRIPTIONS": [
+            "每当呆呆之心对你造成伤害时，在你的抽牌堆里增加 #y晕眩 （重击三张，连击一张）。"
+        ]
+    },
+    "daidaimod:FallingMaster": {
+        "NAME": "坠落大师",
+        "DESCRIPTIONS": [
+            "在你回合开始的抽牌阶段结束后，对你的手牌模拟一次 #y坠落 事件。"
+        ]
+    },
+    "daidaimod:RushdownEnthusiast": {
+        "NAME": "猛虎狂热",
+        "DESCRIPTIONS": [
+            "每当你打出 #y猛虎下山 时，将其无效并赠予你一个随机的强力增益效果。"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "daidaimod:FakeFall": {
+        "NAME": "Fake Fall",
+        "DESCRIPTION": "Choose 1 card to Exhaust, add 2 trashy cards into your hand."
+    },
+    "daidaimod:GenuineFall": {
+        "NAME": "Genuine Fall",
+        "DESCRIPTION": "Exhaust (?), choose 1 of 5 powerful cards to add into your hand.",
+        "UPGRADE_DESCRIPTION": "Exhaust (?), choose 1 of 5 powerful cards to Upgrade and add into your hand.",
+        "EXTENDED_DESCRIPTION": [
+            "There is no card in your hand that can save you from a genuine fall! Take 5 damage."
+        ]
+    },
+    "daidaimod:GiftOfDai": {
+        "NAME": "Gift of Dai",
+        "DESCRIPTION": "Retain. NL Gain random [E] , draw random cards, gain random Block, heal random HP. NL Exhaust."
+    },
+    "daidaimod:PunchDai": {
+        "NAME": "Punch Dai",
+        "DESCRIPTION": "Stun Heart of Dai. NL Exhaust."
+    }
+}

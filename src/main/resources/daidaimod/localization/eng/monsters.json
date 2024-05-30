@@ -1,0 +1,14 @@
+{
+    "daidaimod:HeartOfDai": {
+        "MOVES": [
+            "Debilitate",
+            "Heavy Punch",
+            "Consecutive Punches"
+        ],
+        "NAME": "Heart of Dai",
+        "DIALOG": [
+            "@Rushdown!@ @Hand@ @it@ @over!@ NL @You@ @can@ @have@ @this@ @powerful@ @buff@ @in@ @return!@",
+            "@Thanks@ @for@ @the@ @Captain@ @subscription!@ NL @You@ @are@ @so@ @generous@ @and@ @awesome!@"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "daidaimod:BlessingOfDai": {
+        "NAME": "Blessing of Dai",
+        "FLAVOR": "It is said that this adventurer named Dai often falls flat?",
+        "DESCRIPTIONS": [
+            "Gain [E] at the start of your turn. The first event you encounter in Act 3: The Beyond will inevitably be #yFalling #yDai ."
+        ]
+    }
+}

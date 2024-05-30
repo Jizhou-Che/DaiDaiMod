@@ -1,0 +1,24 @@
+{
+    "daidaimod:FallingDai": {
+        "NAME": "Falling Dai",
+        "DESCRIPTIONS": [
+            "As you head upwards hopping from one floating shape to another, you slip. NL NL You begin to fall, #r@and@ #r@sense@ #r@a@ #r@hint@ #r@of@ #r@ominousness.@ You suspect that this has something to do with the infamous adventurer #yDai.",
+            "While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Strike at the wall to hang on to it.",
+            "You land with extreme grace before continuing on.",
+            "Harnessing and expending some of your raw power, you manage to land unhurt.",
+            "You are able to latch on to the wall, and manage to make a short hop onto another stable platform.",
+            "You plunge headlong into the ground and break all the potion bottles you carry, but your body miraculously remains unhurt."
+        ],
+        "OPTIONS": [
+            "[Continue]",
+            "[Land] #rLose ",
+            "[Locked] Requires: Skill Card",
+            "[Channel] #rLose ",
+            "[Locked] Requires: Power Card",
+            "[Strike] #rLose ",
+            "[Locked] Requires: Attack Card",
+            "[Leave]",
+            "[Land] #rLose #rAll #rPotions."
+        ]
+    }
+}

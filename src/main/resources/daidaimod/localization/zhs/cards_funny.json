@@ -1,0 +1,40 @@
+{
+    "AscendersBane": {
+        "NAME": "进阶之乐",
+        "DESCRIPTION": "这么菜还好意思玩 NL 进阶？"
+    },
+    "Clash": {
+        "NAME": "交锋",
+        "DESCRIPTION": "只有在手牌每一张牌都是攻击牌时才能被打出。 NL 造成 !D! 点伤害。",
+        "EXTENDED_DESCRIPTION": [
+            "好想打交啊～"
+        ]
+    },
+    "Demon Form": {
+        "NAME": "咔咔形态",
+        "DESCRIPTION": "在每回合开始时获得 NL !M! 点 力量 。"
+    },
+    "Grand Finale": {
+        "NAME": "华丽收场",
+        "DESCRIPTION": "只有当抽牌堆中没有牌时才能打出。 NL 对所有敌人造成 !D! 点伤害。",
+        "UPGRADE_DESCRIPTION": "华不出来啊～"
+    },
+    "Hello World": {
+        "NAME": "再见，世界",
+        "DESCRIPTION": "在你的回合开始时，增加一张随机普通牌到你的手牌。",
+        "UPGRADE_DESCRIPTION": "固有 。 NL 在你的回合开始时，增加一张随机普通牌到你的手牌。"
+    },
+    "Masterful Stab": {
+        "NAME": "笨比刺击",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 你每次受到伤害，这张牌的耗能增加1。",
+        "UPGRADE_DESCRIPTION": ""
+    },
+    "RitualDagger": {
+        "NAME": "咔咔刀",
+        "DESCRIPTION": "造成 !D! 点伤害。 NL 斩杀 时，它在本局游戏中的伤害永久性增加 !M! 。 NL 消耗 。"
+    },
+    "Adaptation": {
+        "NAME": "猛虎下山",
+        "DESCRIPTION": "没有虎呆呆可 NL 怎么活啊～"
+    }
+}

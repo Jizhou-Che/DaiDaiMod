@@ -1,0 +1,29 @@
+{
+    "EntropicBrew": {
+        "NAME": "套娃药水",
+        "DESCRIPTIONS": [
+            "在所有空药水栏位中获得随机药水。"
+        ]
+    },
+    "Fruit Juice": {
+        "NAME": "好果汁",
+        "DESCRIPTIONS": [
+            "获得 #b",
+            " 点最大生命。"
+        ]
+    },
+    "SmokeBomb": {
+        "NAME": "烟雾弹",
+        "DESCRIPTIONS": [
+            "我可溜了！",
+            "我被夹击了，溜不掉！"
+        ]
+    },
+    "CultistPotion": {
+        "NAME": "咔咔药水",
+        "DESCRIPTIONS": [
+            "获得 #b",
+            " 层 #y仪式 。"
+        ]
+    }
+}
